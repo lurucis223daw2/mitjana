@@ -3,6 +3,7 @@ results/
 # requisitos previos
 * .d
 .exe 
+*.exe
 # archivos de objetos
 * .o
 * .ko
