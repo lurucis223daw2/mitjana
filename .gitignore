@@ -1,3 +1,5 @@
+
+*.dat
+results/
 *.exe
 results/
-.exe
