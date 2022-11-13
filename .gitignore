@@ -1,5 +1,13 @@
 
 *.dat
 results/
+
 *.exe
-results/
+mitjana/
+
+.exe
+
+.exe
+mitjana/
+
+*exe
